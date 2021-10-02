@@ -1,0 +1,18 @@
+DATA SCIENCE IN BUSINESS
+
+HOW DATA SCIENCE IS SAVINGS LIVES
+
+
+The ten main components of a report are the following:
+1. The cover page which is very important so readers can have an instant idea on what your research is about
+2. Table of contents which a quick summary of the content of your research
+3. Abstract to provide a brief summary of your research
+
+4. An Introduction to set up the mood for readers to understand why you have come up with this research
+
+5. A review of reliable research which is relevant for the subject matter which you can also use to highlight how your research can add value to the current available ones
+6. Your hypothesis of what you expect to be outcome of your research based on the collected data
+7. Methodology is the section where you explain the research methods used and the source of data used for analysis and how you collected them
+8. The results will show your research findings which include statistics, graphs, etc.
+9. The discussion is like comparing your results with your hypothesis to see if you have come up with your expected result or not. This is where you use your storytelling skills to make your readers better understand the numbers and the graphs that has come up based on the methods used (the results)
+10. The last part is the conclusion where you make a general statement of your research to make it more comprehensible to general readers.  
